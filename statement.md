@@ -16,7 +16,9 @@ High-Level Features
  * Real-time Grounding: Uses Google Search to verify data currency.
  * Structured Output: Processes data according to a strict JSON schema.
  * Data Reliability Display: Shows source links (citations) used for verification.
-Functional Requirements (Section 4)
+ 
+Functional Requirements 
+
 | ID | Module Name | Requirement Description |
 |---|---|---|
 | FR1 | User Input & Validation | The system must accept a city name input via the CLI and validate that the input is not empty before initiating a search. |
